@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdAbend_VR.Plugins", "DvdAbend_VR.Plugins.csproj", "{8FA06365-4393-FCAA-D14A-9F53467F229B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdAbend_VR", "DvdAbend_VR.csproj", "{EC856743-5231-2585-6B92-6F10FB72845A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdAbend_VR.Editor.Plugins", "DvdAbend_VR.Editor.Plugins.csproj", "{D04E3535-7121-021C-CD1F-121C36B19A94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA06365-4393-FCAA-D14A-9F53467F229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA06365-4393-FCAA-D14A-9F53467F229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA06365-4393-FCAA-D14A-9F53467F229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA06365-4393-FCAA-D14A-9F53467F229B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC856743-5231-2585-6B92-6F10FB72845A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC856743-5231-2585-6B92-6F10FB72845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC856743-5231-2585-6B92-6F10FB72845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC856743-5231-2585-6B92-6F10FB72845A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04E3535-7121-021C-CD1F-121C36B19A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04E3535-7121-021C-CD1F-121C36B19A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04E3535-7121-021C-CD1F-121C36B19A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04E3535-7121-021C-CD1F-121C36B19A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

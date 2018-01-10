@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Szenen/enterthevoid/enterthevoid.unity
+- path: Assets/zimmer1408.unity
   isLoaded: 1
   isActive: 1
