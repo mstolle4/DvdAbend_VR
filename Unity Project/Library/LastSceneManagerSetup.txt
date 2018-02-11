@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/wohnzimmer.unity
+  isLoaded: 1
+  isActive: 1

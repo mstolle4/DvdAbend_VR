@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDAbendSS18", "DVDAbendSS18.csproj", "{2AD313AB-40BC-9E1A-1CDE-F80F4293CDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDAbendSS18.Editor", "DVDAbendSS18.Editor.csproj", "{F3A2DE0F-F94B-B062-30DF-E3B0F3868105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD313AB-40BC-9E1A-1CDE-F80F4293CDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD313AB-40BC-9E1A-1CDE-F80F4293CDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD313AB-40BC-9E1A-1CDE-F80F4293CDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD313AB-40BC-9E1A-1CDE-F80F4293CDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A2DE0F-F94B-B062-30DF-E3B0F3868105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A2DE0F-F94B-B062-30DF-E3B0F3868105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A2DE0F-F94B-B062-30DF-E3B0F3868105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A2DE0F-F94B-B062-30DF-E3B0F3868105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
